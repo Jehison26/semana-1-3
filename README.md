@@ -1,19 +1,20 @@
 # workshop1
-the code of the final excercise for the sprint1 misiotin2022
+Codigo de la primer semana del curso, grupo 3
 
 ## The Project
-This project was made for Daniel Duque to test the first workshop of the MisionTic2022 ciclo 3
-> CICLO 3 DE FORMACIÓN: DESARROLLO DE SOFTWARE
+Muchachos en este projecto el HTML principal (index.html), llama a los otro HTMLs que componen las partes del HTML principal (header,services,news,team,footer), así que si eligen alguna parte, solo deben editar el html que le corresponde, creando una rama de GIT, editando, y subiendo y haciendo merge
 
-This project starts with a `git` configuration using commands like
-```
-git add remote
-git remote -v
-git status
-git add
-git pull
-git commit -m
-git push
-```
+Crean la rama propia 
+git checkout -b suNombre
 
-We are usinf the [GitHub Docs](https://docs.github.com/es/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax) to put this **README** in order
+Cuando ya hallan teminado de editar le dan  en CMD o terminal
+git add parteQueLeToco.html
+git commit -m ArreglodeNombredelmiembroTal_#
+
+y luego lo suben a la rama del GITHUB
+
+git push origin suNombre
+
+despues le hacemos merge a eso y tal xd
+
+me dejan los nombres de usuario para agregarlos 
